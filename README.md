@@ -1,2 +1,2 @@
 # Python_Mini_Projects
-Mini projects from 100 Days of Code: The Complete Python Pro Bootcamp for 2023
+100 days of Code in Python : Projects from (100 Days of Code: The Complete Python Pro Bootcamp for 2023) and replit.
